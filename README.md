@@ -1,4 +1,4 @@
-# TerraformForAll - Prépartion d'environnement
+# TerraformForAll - Préparation d'environnement
 
 Ce projet utilise Terraform pour déployer des ressources sur AWS.
 
